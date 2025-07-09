@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://defra.github.io/waste-tracking-service-preview/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://defra.github.io/waste-tracking-service-preview/api-specification/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://defra.github.io/waste-tracking-service-preview/private-beta-comms-sign-up/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://defra.github.io/waste-tracking-service-preview/receipt-data-definitions/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://defra.github.io/waste-tracking-service-preview/storyboards/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://defra.github.io/waste-tracking-service-preview/use-cases/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+</urlset>
